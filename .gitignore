@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+backend/uploads/
+backend/generated/
+backend/.env
+backend/form_automation.db
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Generated forms (CLI)
+*_Device_Form.docx
+generated/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.log
