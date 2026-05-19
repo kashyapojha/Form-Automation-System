@@ -1,6 +1,12 @@
 # Form Automation System
 
+<<<<<<< HEAD
 Enterprise web application for teams to bulk-generate **Device Issue & Return** Word forms from a structured Excel workbook. Non-technical users upload data, validate it in the browser, and download a ZIP of per-employee `.docx` files.
+=======
+Enterprise web application for HR/IT teams to bulk-generate **Device Issue & Return** Word forms from a structured Excel workbook. Non-technical users upload data, validate it in the browser, and download a ZIP of per-employee `.docx` files.
+
+---
+>>>>>>> 888150d (Login / logout issue fixed)
 
 ## Features
 
